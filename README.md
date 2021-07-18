@@ -1,5 +1,5 @@
 # ncp
-> Node to C/C++ to Python
+> Python to C/C++ to Node
 
 Ref: https://aerocode.net/341
 
